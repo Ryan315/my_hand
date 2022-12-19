@@ -1,0 +1,27 @@
+[submodule "awesome-hand-pose-estimation"]
+	path = awesome-hand-pose-estimation
+	url = git@github.com:Ryan315/awesome-hand-pose-estimation.git
+[submodule "useful_module/MeshTransformer"]
+	path = useful_module/MeshTransformer
+	url = git@github.com:microsoft/MeshTransformer.git
+[submodule "useful_module/MANO"]
+	path = useful_module/MANO
+	url = git@github.com:otaheri/MANO.git
+[submodule "useful_module/InterHand2.6M"]
+	path = useful_module/InterHand2.6M
+	url = git@github.com:facebookresearch/InterHand2.6M.git
+[submodule "useful_module/Pose2Mesh_RELEASE"]
+	path = useful_module/Pose2Mesh_RELEASE
+	url = git@github.com:hongsukchoi/Pose2Mesh_RELEASE.git
+[submodule "useful_module/mediapipe"]
+	path = useful_module/mediapipe
+	url = git@github.com:google/mediapipe.git
+[submodule "useful_module/I2L-MeshNet_RELEASE"]
+	path = useful_module/I2L-MeshNet_RELEASE
+	url = git@github.com:mks0601/I2L-MeshNet_RELEASE.git
+[submodule "useful_module/smplx"]
+	path = useful_module/smplx
+	url = git@github.com:vchoutas/smplx.git
+[submodule "useful_module/segmenter"]
+	path = useful_module/segmenter
+	url = git@github.com:rstrudel/segmenter.git
