@@ -3,12 +3,12 @@ repo for PA-Tran
 
 # 1. Install required packages by running:
 > python3 install -r requirements.txt
-# 2. data download by running: 
+# 2. Download data by running: 
 > python3 ./Tools/download_data.py
 
 The time series data will be downloaded to "./data" folder.
 
-# 3. data visualization
+# 3. Data visualization
 For visualizing the time series data, use the matlab script in "./Visualization" folder.
 The main script is 'main_single.m'.
 
